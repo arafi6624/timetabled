@@ -1,4 +1,4 @@
-# timetabled
+# Timetabled
 
 ## Description ## 
 An intinerary for a week in Los Angeles. 
